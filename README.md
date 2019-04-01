@@ -1,4 +1,4 @@
-# MultidefaultSelection
+# MultidefaultSelection in Qlik Sense
 This Extension is used to select the multiple default values
 use commma seperated to select multiple values.
 ## after selection refersh the page 
